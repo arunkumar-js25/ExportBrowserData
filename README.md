@@ -1,7 +1,9 @@
 # ExportBrowserData
 
-#1
+### 1
 Export Chrome and Edge Browser Bookmarks into single html document for quick access
 
-#2
+### 2
 Export Chrome and Edge Browser Saved Passwords with decryption into single file.
+
+Language: Python 3.*
